@@ -28,3 +28,8 @@ telephony.lteOnCdmaDevice=1
 
 # WiFi
 wifi.interface=wlan0
+
+# Device
+ro.product.marketname=Redmi Note 10
+ro.infinity.soc=Qualcomm® Snapdragon™ 678
+ro.infinity.camera=Rear: 48MP + 8MP + 2MP + 2MP, Front: 13MP

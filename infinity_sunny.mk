@@ -23,6 +23,15 @@ PRODUCT_MODEL := M2101K7AG
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_SYSTEM_NAME := sunny
 
+# Maintainer Name
+INFINITY_MAINTAINER := "Ayu Kashyap"
+
+# Whether the device supports Fingerprint On Display
+TARGET_HAS_UDFPS := false
+
+# Whether Including Google Apps
+WITH_GAPPS := true
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceName=$(PRODUCT_SYSTEM_NAME)
 
